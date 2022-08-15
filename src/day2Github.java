@@ -13,6 +13,7 @@ public class day2Github {
     Note: yukaridaki Bu iki komutu tek seferde kullandiktan sonra ikinci commit'lerim icin sadece git push
     kullaniriz.
     not : git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir.
+    not : github ogrendim
 
 
 
