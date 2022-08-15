@@ -14,6 +14,7 @@ public class day2Github {
     kullaniriz.
     not : git log --oneline --> Commitlerimdeki yani versiyonlarimdaki durumu gosterir.
     not : github ogrendim
+    6-) git pull --> remote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
 
 
 
